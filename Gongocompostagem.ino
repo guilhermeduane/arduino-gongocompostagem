@@ -89,7 +89,7 @@
       //Intro do programa
       lcd.print("GONGOCOMPOSTAGEM");
       lcd.setCursor(3,1); 
-      lcd.print("by Gabriel");
+      lcd.print("by Guilherme");
       delay(3000);
  
       lcd.clear(); 
